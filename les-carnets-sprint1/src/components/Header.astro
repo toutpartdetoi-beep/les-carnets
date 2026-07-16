@@ -1,0 +1,20 @@
+<header class="site-header">
+  <div class="container nav">
+    <a class="brand" href="/">
+      <span class="brand-mark" aria-hidden="true"></span>
+      <span>Tout part de toi · Les Carnets</span>
+    </a>
+    <button class="nav-toggle" aria-label="Ouvrir le menu" data-nav-toggle>☰</button>
+    <nav class="nav-links" data-nav-links>
+      <a href="/#articles">Les Carnets</a>
+      <a href="/#categories">Thématiques</a>
+      <a href="/a-propos">À propos</a>
+      <a class="button secondary" href="https://emilietreynetgestalt.com">Retour au site</a>
+    </nav>
+  </div>
+</header>
+<script>
+  const toggle = document.querySelector('[data-nav-toggle]');
+  const nav = document.querySelector('[data-nav-links]');
+  toggle?.addEventListener('click', () => nav?.classList.toggle('open'));
+</script>

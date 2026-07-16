@@ -1,0 +1,22 @@
+---
+interface Props {
+  href?: string;
+  title: string;
+  description: string;
+  category: string;
+  image: string;
+  readingTime?: string;
+}
+const { href = '#', title, description, category, image, readingTime = '7 min' } = Astro.props;
+---
+<article class="article-card">
+  <a href={href} aria-label={`Lire ${title}`}>
+    <img src={image} alt="" loading="lazy" />
+    <div class="article-card-body">
+      <div class="meta"><span class="tag">{category}</span><span>{readingTime}</span></div>
+      <h3>{title}</h3>
+      <p>{description}</p>
+      <span class="read-more">Lire le Carnet →</span>
+    </div>
+  </a>
+</article>
