@@ -1,14 +1,14 @@
 PUBLICATION DE L’ARTICLE
-« Petit rituel (sans ésotérisme obligé) : une pratique de contact »
+« Ces derniers jours, j’ai été un peu moins présente ici »
 
 À REMPLACER À LA RACINE :
 - index.html
 
 À AJOUTER DANS articles :
-- petit-rituel-yule-pratique-de-contact.html
+- ces-derniers-jours-j-ai-ete-un-peu-moins-presente-ici.html
 
-À REMPLACER DANS categories :
-- corps-emotions-vivant.html
+À AJOUTER DANS categories :
+- traversees-personnelles.html
 
 À AJOUTER DANS images :
-- petit-rituel-yule-pratique-de-contact.jpg
+- ces-derniers-jours-j-ai-ete-un-peu-moins-presente-ici.jpg
