@@ -1,14 +1,14 @@
 PUBLICATION DE L’ARTICLE
-« Ces derniers jours, j’ai été un peu moins présente ici »
+« Quand le corps redevient un partenaire de vie »
 
 À REMPLACER À LA RACINE :
 - index.html
 
 À AJOUTER DANS articles :
-- ces-derniers-jours-j-ai-ete-un-peu-moins-presente-ici.html
+- quand-le-corps-redevient-un-partenaire-de-vie.html
 
-À AJOUTER DANS categories :
-- traversees-personnelles.html
+À REMPLACER DANS categories :
+- corps-emotions-vivant.html
 
 À AJOUTER DANS images :
-- ces-derniers-jours-j-ai-ete-un-peu-moins-presente-ici.jpg
+- quand-le-corps-redevient-un-partenaire-de-vie.jpg
