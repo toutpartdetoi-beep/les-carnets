@@ -1,0 +1,11 @@
+À remplacer :
+
+index.html
+
+À copier :
+
+articles/cette-petite-voix-qui-murmure.html
+
+categories/gestalt-connaissance-de-soi.html
+
+images/cette-petite-voix-qui-murmure.jpeg
