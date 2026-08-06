@@ -1,11 +1,14 @@
-À remplacer :
+PUBLICATION DE L’ARTICLE
+« Dans un monde qui va à toute allure, prendre du repos n’est pas si simple ! »
 
-index.html
+À REMPLACER À LA RACINE :
+- index.html
 
-À copier :
+À AJOUTER DANS articles :
+- dans-un-monde-qui-va-a-toute-allure-prendre-du-repos.html
 
-articles/cette-petite-voix-qui-murmure.html
+À REMPLACER DANS categories :
+- corps-emotions-vivant.html
 
-categories/gestalt-connaissance-de-soi.html
-
-images/cette-petite-voix-qui-murmure.jpeg
+À AJOUTER DANS images :
+- dans-un-monde-qui-va-a-toute-allure-prendre-du-repos.jpg
