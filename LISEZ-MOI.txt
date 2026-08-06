@@ -1,14 +1,14 @@
 PUBLICATION DE L’ARTICLE
-« Dans un monde qui va à toute allure, prendre du repos n’est pas si simple ! »
+« Petit rituel (sans ésotérisme obligé) : une pratique de contact »
 
 À REMPLACER À LA RACINE :
 - index.html
 
 À AJOUTER DANS articles :
-- dans-un-monde-qui-va-a-toute-allure-prendre-du-repos.html
+- petit-rituel-yule-pratique-de-contact.html
 
 À REMPLACER DANS categories :
 - corps-emotions-vivant.html
 
 À AJOUTER DANS images :
-- dans-un-monde-qui-va-a-toute-allure-prendre-du-repos.jpg
+- petit-rituel-yule-pratique-de-contact.jpg
