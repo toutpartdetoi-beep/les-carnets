@@ -1,14 +1,14 @@
 PUBLICATION DE L’ARTICLE
-« Quand le corps redevient un partenaire de vie »
+« Suis-je un parvers narcissique ? »
 
 À REMPLACER À LA RACINE :
 - index.html
 
 À AJOUTER DANS articles :
-- quand-le-corps-redevient-un-partenaire-de-vie.html
+- suis-je-un-parvers-narcissique.html
 
 À REMPLACER DANS categories :
-- corps-emotions-vivant.html
+- gestalt-connaissance-de-soi.html
 
 À AJOUTER DANS images :
-- quand-le-corps-redevient-un-partenaire-de-vie.jpg
+- suis-je-un-parvers-narcissique.jpg
