@@ -1,14 +1,13 @@
-PUBLICATION DE L’ARTICLE
-« Suis-je un parvers narcissique ? »
+PUBLICATION DE L’ARTICLE « L'art comme ressource ? »
 
 À REMPLACER À LA RACINE :
 - index.html
 
 À AJOUTER DANS articles :
-- suis-je-un-parvers-narcissique.html
+- art-comme-ressource.html
 
 À REMPLACER DANS categories :
-- gestalt-connaissance-de-soi.html
+- creativite-mediations-artistiques.html
 
 À AJOUTER DANS images :
-- suis-je-un-parvers-narcissique.jpg
+- art-comme-ressource.jpg
