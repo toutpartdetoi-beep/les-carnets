@@ -1,13 +1,22 @@
-PUBLICATION DE L’ARTICLE « L'art comme ressource ? »
+PUBLICATION DE L’ARTICLE « Voyager pour faire un pas de coté »
 
 À REMPLACER À LA RACINE :
 - index.html
 
 À AJOUTER DANS articles :
-- art-comme-ressource.html
+- voyager-pour-faire-un-pas-de-cote.html
 
 À REMPLACER DANS categories :
-- creativite-mediations-artistiques.html
+- traversees-personnelles.html
 
 À AJOUTER DANS images :
-- art-comme-ressource.jpg
+- voyager-pour-faire-un-pas-de-cote-hero.jpg
+- voyager-pour-faire-un-pas-de-cote-fenetre-sur-champ.jpg
+- voyager-pour-faire-un-pas-de-cote-bus-yeux-bandes.jpg
+- voyager-pour-faire-un-pas-de-cote-rails-bord-de-mer.jpg
+- voyager-pour-faire-un-pas-de-cote-amphitheatre-antique.jpg
+- voyager-pour-faire-un-pas-de-cote-maisons-colorees-canal.jpg
+- voyager-pour-faire-un-pas-de-cote-maisons-colorees-rue.jpg
+- voyager-pour-faire-un-pas-de-cote-mere-fille-bord-deau.jpg
+- voyager-pour-faire-un-pas-de-cote-train-viaduc.jpg
+- voyager-pour-faire-un-pas-de-cote-brooklyn-bridge.jpg
