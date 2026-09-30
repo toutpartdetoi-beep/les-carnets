@@ -1,22 +1,19 @@
-PUBLICATION DE L’ARTICLE « Voyager pour faire un pas de coté »
+PUBLICATION DE L’ARTICLE
+« Psycho-praticienne, neutre ? Vraiment ? »
 
 À REMPLACER À LA RACINE :
 - index.html
 
 À AJOUTER DANS articles :
-- voyager-pour-faire-un-pas-de-cote.html
+- psycho-praticienne-neutre-vraiment.html
 
 À REMPLACER DANS categories :
-- traversees-personnelles.html
+- pouvoir-agir-societe.html
 
 À AJOUTER DANS images :
-- voyager-pour-faire-un-pas-de-cote-hero.jpg
-- voyager-pour-faire-un-pas-de-cote-fenetre-sur-champ.jpg
-- voyager-pour-faire-un-pas-de-cote-bus-yeux-bandes.jpg
-- voyager-pour-faire-un-pas-de-cote-rails-bord-de-mer.jpg
-- voyager-pour-faire-un-pas-de-cote-amphitheatre-antique.jpg
-- voyager-pour-faire-un-pas-de-cote-maisons-colorees-canal.jpg
-- voyager-pour-faire-un-pas-de-cote-maisons-colorees-rue.jpg
-- voyager-pour-faire-un-pas-de-cote-mere-fille-bord-deau.jpg
-- voyager-pour-faire-un-pas-de-cote-train-viaduc.jpg
-- voyager-pour-faire-un-pas-de-cote-brooklyn-bridge.jpg
+- psycho-praticienne-neutre-ethique.png
+
+MISE À JOUR DE L’ACCUEIL INCLUSE :
+- nouvel article À LA UNE
+- TDAH, puberté et sexualité dans LES DERNIÈRES CHRONIQUES
+- Vous ne serez plus jamais seul·e dans LES ARCHIVES
